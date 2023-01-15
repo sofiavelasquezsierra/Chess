@@ -1,3 +1,5 @@
+//@author Sofia Velasquez Sierra
+
 public class King extends Piece {
     public King(int x, int y, Side side, Board board) {
         // TODO: Call super constructor
